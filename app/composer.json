@@ -1,0 +1,16 @@
+{
+  "name": "konkin/oop_test",
+  "authors": [
+    {
+      "name": "Konkin Ivan",
+      "email": "konkin.ivan@yandex.ru"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "./"
+    }
+  }
+}
